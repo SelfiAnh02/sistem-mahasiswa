@@ -170,6 +170,8 @@
                 @endif
             </div>
 
+            
+
             <!-- Pagination -->
             @if($mahasiswa->count() > 0)
             <div class="card-footer bg-white">
